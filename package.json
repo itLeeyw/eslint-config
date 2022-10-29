@@ -1,0 +1,18 @@
+{
+  "name": "@leeyw/eslint-config-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leeyw <leeywkw@gmail.com> (https://github.com/itLeeyw/)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.8.4"
+  }
+}
